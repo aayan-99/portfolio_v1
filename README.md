@@ -4,10 +4,6 @@ This is my portfolio web application showing all my skills and projects.
 
 ## [Demo Link](portfolio-v1-teal.vercel.app) 🔗
 
-<div align="center">
-  <img src="/assets/images/portfolio_v1.png" alt="Portfolio" width="100%" />
-  <br>
-</div>
 
 ## Technologies used 🛠️
 

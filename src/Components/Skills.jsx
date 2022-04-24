@@ -24,7 +24,7 @@ const Skills = () => {
                 <Skillname name={CSS} title="CSS"/>
                 <Skillname name={Tailwind} title="TailwindCSS"/>
                 <Skillname name={JS} title="Javascript"/>
-                <Skillname name={ReactImg} title="React"/>
+                <Skillname name={ReactImg} title="ReactJS"/>
                 <Skillname name={Angular} title="Angular"/>
                 <Skillname name={Typescript} title="Typescript"/>
                 <Skillname name={GitHub} title="Git-Hub"/>

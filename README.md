@@ -5,7 +5,7 @@ This web app is a clone of Netflix. I tried to clone the UI and some of its func
 ## [Demo Link](portfolio-v1-teal.vercel.app) 🔗
 
 <div align="center">
-  <img src="https://www.vivekkhanal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnetflix-1.c837220b.webp&w=3840&q=75" alt="Netflix clone demo" width="100%" />
+  <img src="5" alt="Portfolio" width="100%" />
   <br>
 </div>
 
@@ -16,18 +16,8 @@ This web app is a clone of Netflix. I tried to clone the UI and some of its func
 - **JavaScript** 🚀
 - **Tailwind CSS** 🚀
 - **React JS** 🚀
-- **Next JS** 🚀
-- **Firebase** 🚀
 
-## Features
 
-- ### **User Authentication 💯**
-- ### **API integration 🥳**
-- ### **Online video player 🤘**
-- ### **Responsive Design 🙌**
-- ### **Server Side Rendering 🚀**
-
----
 
 ## How To Use 🔧
 
@@ -59,7 +49,7 @@ $ npm install
 
 ## Author 👨‍💻
 
-- **Vivek Khanal** - **[Linkedin](https://www.linkedin.com/in/vivek-khanal-793016231/)**, **[Github](https://github.com/dev-vivekkhanal)**, **[Portfolio](https://vivekkhanal.com)**
+- **Aayanjit Bhuyan** - **[Linkedin](https://www.linkedin.com/in/vivek-khanal-793016231/)**, **[Github](https://github.com/dev-vivekkhanal)**, **[Portfolio](https://vivekkhanal.com)**
 
 <br>
 

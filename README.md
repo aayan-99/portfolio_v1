@@ -2,7 +2,7 @@
 
 This is my portfolio web application showing all my skills and projects.
 
-## [Demo Link](portfolio-v1-teal.vercel.app) 🔗
+## [Demo Link](https://portfolio-v1-teal.vercel.app) 🔗
 
 
 ## Technologies used 🛠️

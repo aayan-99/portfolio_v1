@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# PORTFOLIO
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This web app is a clone of Netflix. I tried to clone the UI and some of its functionality using the tech stack I am familiar with.
 
-## Available Scripts
+## [Demo Link](portfolio-v1-teal.vercel.app) 🔗
 
-In the project directory, you can run:
+<div align="center">
+  <img src="https://www.vivekkhanal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnetflix-1.c837220b.webp&w=3840&q=75" alt="Netflix clone demo" width="100%" />
+  <br>
+</div>
 
-### `npm start`
+## Technologies used 🛠️
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **HTML** 🚀
+- **CSS** 🚀
+- **JavaScript** 🚀
+- **Tailwind CSS** 🚀
+- **React JS** 🚀
+- **Next JS** 🚀
+- **Firebase** 🚀
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- ### **User Authentication 💯**
+- ### **API integration 🥳**
+- ### **Online video player 🤘**
+- ### **Responsive Design 🙌**
+- ### **Server Side Rendering 🚀**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## How To Use 🔧
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+From your command line, first clone this repo:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Clone this repository
+$ git clone https://github.com/dev-vivekkhanal/NetflixClone-nextjs
 
-### `npm run eject`
+# Go into the repository
+$ cd NetflixClone-nextjs
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Remove current origin repository
+$ git remote remove origin
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Then you can install the dependencies
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Using NPM:
 
-## Learn More
+```bash
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Install dependencies
+$ npm install
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
 
-### Code Splitting
+## Author 👨‍💻
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- **Vivek Khanal** - **[Linkedin](https://www.linkedin.com/in/vivek-khanal-793016231/)**, **[Github](https://github.com/dev-vivekkhanal)**, **[Portfolio](https://vivekkhanal.com)**
 
-### Analyzing the Bundle Size
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+#### Note:
 
-### Making a Progressive Web App
+I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )** and **On-Site ( Anywhere in India )**. So, if you have a good opportunity that matches my skills experience then you can contact me on my **[Linkedin](https://www.linkedin.com/in/vivek-khanal-793016231/)** or my email id **dev.vivekkhanal@gmail.com** 🙌
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<br>
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---

@@ -5,7 +5,7 @@ import CSS from '../assets/images/css.png'
 import Tailwind from '../assets/images/tailwind.png'
 import JS from '../assets/images/javascript.png'
 import ReactImg from '../assets/images/react.png'
-import Angular from '../assets/images/angular.png'
+import Firebase from '../assets/images/firebase.png'
 import Typescript from '../assets/images/typescript.png'
 import GitHub from '../assets/images/github.png'
 import Skillname from './Skillname'
@@ -25,7 +25,7 @@ const Skills = () => {
                 <Skillname name={Tailwind} title="TailwindCSS"/>
                 <Skillname name={JS} title="Javascript"/>
                 <Skillname name={ReactImg} title="React"/>
-                <Skillname name={Angular} title="Angular"/>
+                <Skillname name={Firebase} title="Firebase"/>
                 <Skillname name={Typescript} title="Typescript"/>
                 <Skillname name={GitHub} title="Git-Hub"/>
             </div>

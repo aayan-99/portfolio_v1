@@ -1,6 +1,6 @@
 import React from 'react'
-import Crypto from '../assets/images/crypto.jpg'
-import Project from '../assets/images/project2.png'
+import Crypto from '../assets/images/netflix.png'
+import Project from '../assets/images/crypto.jpg'
 
 const Work = () => {
   return (
@@ -20,7 +20,7 @@ const Work = () => {
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            React Js Application
+                            Netflix clone using React Js and Firebase.
                         </span>
                         <div className='pt-8 text-center'>
                             <a href="https://alpha-oryx.vercel.app/" target='_blank' rel='noreferrer'><button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold tect-lg'>Demo</button></a>

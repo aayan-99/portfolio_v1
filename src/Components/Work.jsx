@@ -23,8 +23,8 @@ const Work = () => {
                             Netflix clone using React Js and Firebase.
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://alpha-oryx.vercel.app/" target='_blank' rel='noreferrer'><button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold tect-lg'>Demo</button></a>
-                            <a href="https://github.com/aayan-99/alpha-oryx" target='_blank' rel='noreferrer'><button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold tect-lg'>Code</button></a>
+                            <a href="https://netflix-clone-aayan-99.vercel.app/" target='_blank' rel='noreferrer'><button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold tect-lg'>Demo</button></a>
+                            <a href="https://github.com/aayan-99/Netflix-Clone" target='_blank' rel='noreferrer'><button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold tect-lg'>Code</button></a>
                         </div>
                     </div>
                 </div>
@@ -38,8 +38,8 @@ const Work = () => {
                             ReactJs Application 
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://above-the-horizon.vercel.app/" target='_blank' rel='noreferrer'><button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold tect-lg'>Demo</button></a>
-                            <a href="https://github.com/aayan-99/above-the-horizon" target='_blank' rel='noreferrer'><button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold tect-lg'>Code</button></a>
+                            <a href="https://alpha-oryx.vercel.app/" target='_blank' rel='noreferrer'><button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold tect-lg'>Demo</button></a>
+                            <a href="https://github.com/aayan-99/alpha-oryx" target='_blank' rel='noreferrer'><button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold tect-lg'>Code</button></a>
                         </div>
                     </div>
                 </div>
